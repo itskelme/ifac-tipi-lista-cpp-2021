@@ -9,3 +9,7 @@ Cada arquivo `questao-NN` resolve a questão de mesmo número. `questao-241.cpp`
 ```bash
 g++ -o q01 questao-01.cpp && ./q01
 ```
+
+## Licença
+
+[CC BY-NC 4.0](LICENSE): uso pessoal e modificação permitidos com atribuição; uso comercial proibido.
